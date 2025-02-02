@@ -1,7 +1,26 @@
-Hi! This is mainly a repo which I put some of my daily projects in
+# Hi there, I'm Xingrui Huo! 👋
 
-Probably something like updated information on my portfolio
+🚀 **Supply Chain Associate | Data Science Enthusiast**  
+📍 **Melchizedek Bioengineering Co., Ltd. | Georgetown University**  
+🏎 **Car lover | Audi enthusiast**  
 
-Probably something about my Formula 1 lap time analysis
+---
 
-That's it!
+### 🔧 Tech Stack & Tools:
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📈 GitHub Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xingruihuo&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xingruihuo&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Contact Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xingrui-huo-394b51204/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:froomehuo@gmail.com)
+
+---
