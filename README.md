@@ -29,7 +29,31 @@
 ---
 ### 🌍 My Website:
 [![Website](https://img.shields.io/badge/Website-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xingrui74froome.georgetown.domains/_site/index.html)
-<a href="https://xingrui74froome.georgetown.domains/_site/index.html" target="_blank" rel="noopener noreferrer">
-  🌍 Visit My Website
-</a>
+
+---
+# ✈️ Airlines Manager Route Planner
+> **Optimize airline routes and fleet configurations for Airlines Manager.**
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/github/license/FroomeBeibei79/Airlines_Manager_route_planner)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/FroomeBeibei79/Airlines_Manager_route_planner?style=social)](https://github.com/FroomeBeibei79/Airlines_Manager_route_planner/stargazers)
+
+---
+
+## 📌 **Project Overview**
+🚀 **Airlines Manager Route Planner** helps optimize airline fleet configurations by calculating the best mix of Economy, Business, and First-Class seats while ensuring efficient cargo utilization.
+
+🎯 **Key Features:**
+- ✅ Calculates optimal seat configurations for various aircraft.
+- ✅ Ensures efficient cargo and passenger space usage.
+- ✅ Supports multiple plane configurations in Airlines Manager.
+- ✅ Interactive and automated route planning.
+
+---
+
+## 🔧 **Installation**
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/FroomeBeibei79/Airlines_Manager_route_planner.git
+   cd Airlines_Manager_route_planner
 
