@@ -29,4 +29,7 @@
 ---
 ### 🌍 My Website:
 [![Website](https://img.shields.io/badge/Website-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xingrui74froome.georgetown.domains/_site/index.html)
+<a href="https://xingrui74froome.georgetown.domains/_site/index.html" target="_blank" rel="noopener noreferrer">
+  🌍 Visit My Website
+</a>
 
