@@ -1,7 +1,7 @@
 # Hi there, I'm Xingrui Huo! 👋
 
 🚀 **Supply Chain Associate | Data Science Enthusiast**  
-📍 **Melchizedek Bioengineering Co., Ltd. | Georgetown University**  
+📍 **Rutgers University | Georgetown University**  
 🏎 **Car lover | Audi enthusiast**  
 
 ---
@@ -10,6 +10,8 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
