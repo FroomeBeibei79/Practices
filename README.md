@@ -30,6 +30,9 @@
 ### 🌍 My Website:
 [![Website](https://img.shields.io/badge/Website-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xingrui74froome.georgetown.domains/_site/index.html)
 
+<iframe src="https://www.duolingo.com/profile/yourusername" width="300" height="200"></iframe>
+
+
 ---
 # ✈️ Airlines Manager Route Planner
 > **Optimize airline routes and fleet configurations for Airlines Manager.**
@@ -45,3 +48,11 @@
 A tool for optimizing airline fleet configurations in Airlines Manager by calculating the best mix of Economy, Business, and First-Class seats while ensuring efficient cargo utilization.  
 
 🛠 **Status:** Currently under development  
+
+### 🌍 GIS Spatial Analysis Project  
+[🔗 View Repository](https://github.com/FroomeBeibei79/gis_project)  
+A Geographic Information Systems (GIS) project analyzing spatial patterns in New York City, focusing on the relationship between traffic volume and noise complaints using spatial data science techniques.
+
+🛠 **Status:** All good to go!
+
+
