@@ -16,8 +16,9 @@
 ---
 
 ### 📈 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xingruihuo&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xingruihuo&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=froomebeibei79&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=froomebeibei79&show_icons=true&theme=tokyonight)
 
 ---
 
