@@ -31,17 +31,6 @@
 [![Website](https://img.shields.io/badge/Website-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xingrui74froome.georgetown.domains/_site/index.html)
 
 ---
-## 🌱 Language Learning Progress
-🔥 ![Duolingo Streak](https://dcbadge.vercel.app/api/duolingo/your_duolingo_username?style=flat)](https://www.duolingo.com/profile/froome4)
-
-
----
-# ✈️ Airlines Manager Route Planner
-> **Optimize airline routes and fleet configurations for Airlines Manager.**
-
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-
----
 
 ## 🚀 Projects
 
