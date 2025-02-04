@@ -30,7 +30,9 @@
 ### 🌍 My Website:
 [![Website](https://img.shields.io/badge/Website-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xingrui74froome.georgetown.domains/_site/index.html)
 
-<iframe src="https://www.duolingo.com/profile/yourusername" width="300" height="200"></iframe>
+---
+## 🌱 Language Learning Progress
+🔥 Duolingo Streak: **![](https://duolingo-streak-badge.herokuapp.com/streak/froome4)**
 
 
 ---
