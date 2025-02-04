@@ -32,7 +32,7 @@
 
 ---
 ## 🌱 Language Learning Progress
-🔥 Duolingo Streak: **![](https://duolingo-streak-badge.herokuapp.com/streak/froome4)**
+🔥 ![Duolingo Streak](https://dcbadge.vercel.app/api/duolingo/your_duolingo_username?style=flat)](https://www.duolingo.com/profile/froome4)
 
 
 ---
