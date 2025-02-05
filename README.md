@@ -1,7 +1,7 @@
-# Hi there, I'm Xingrui Huo, also goes by Froome! 👋
+# Hi there, I'm Xingrui Huo, Great to meet you! 👋
 
-🚀 **Supply Chain Associate | Data Science Enthusiast**  
-📍 **Georgetown University | Rutgers, the State University of New Jersey**  
+🚀 **Data Science Graduate at Georgetown University**  
+📍 **Economics Major & Stats, Data Science Double minor at Rutgers, the State University of New Jersey**  
 🏎 **Car lover | Audi enthusiast**  
 
 ---
